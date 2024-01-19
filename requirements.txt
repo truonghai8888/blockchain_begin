@@ -1,0 +1,11 @@
+# hashlib # mã hóa
+# json
+numpy
+pandas
+matplotlib
+pycryptodome
+pycryptodome-test-vectors
+web3
+eth_tester
+black
+isort

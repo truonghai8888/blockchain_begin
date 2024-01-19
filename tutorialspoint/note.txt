@@ -1,0 +1,4 @@
+các thành phần cơ bản của blockchain
+1. khách hàng(client)
+2. thợ đào(miners)
+3. chuỗi khối(blockchain)
