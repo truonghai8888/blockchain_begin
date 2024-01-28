@@ -1,6 +1,6 @@
+import utils
 from models.Client import Client
 from models.Transaction import Transaction
-import utils
 
 # Testing Transaction
 Dinesh = Client()
